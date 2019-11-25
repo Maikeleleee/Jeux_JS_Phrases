@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+   
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+    line-height: 40px;
+}
+
+#containerTexte {
+    font-size: 20px;
+    
+}
+
+#texte {
+    font-size : 30px;
+    font-weight: 700;
+}
+
+#prenomUtilisateur  {
+    margin-top: 25px;
+    width: 200px;
+    height: 62px;
+    text-align: center;
+    
+}
+
+#btn {
+    margin-top: 100px;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    
+}
